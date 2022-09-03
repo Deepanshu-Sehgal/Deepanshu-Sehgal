@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Sehgal</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deepanshu Sehgal
+======================================================================================================================================
 <h3 align="center">A passionate Android developer from India. And currently working on my skills to become a Software developer.</h3>
 
 - 🔭 I’m currently working on **File Manager**
