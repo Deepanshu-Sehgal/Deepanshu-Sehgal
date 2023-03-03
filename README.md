@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="center">A passionate Android developer from India. And currently working on my skills to become a Software developer.</h3>
 
-- 🔭 I’m currently working on **File Manager**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Jetpack Compose and Flutter**
+- 🌱 I’m currently learning **Data Structure's And Algorithms**
 
-- 📫 How to reach me **deepanshusehgal.112@rediffmail.com**
+- 📫 How to reach me **deepanshusehga1506@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
