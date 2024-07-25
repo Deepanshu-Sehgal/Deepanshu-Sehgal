@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="center">A passionate full-stack developer from India And I am currently working on my skills to become a software developer.</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Data Structure's And Algorithms**
+- 🌱 I’m currently learning **Data Structure's And Algorithms and Spring-Boot**
 
 - 📫 How to reach me **deepanshusehga1506@gmail.com**
 
