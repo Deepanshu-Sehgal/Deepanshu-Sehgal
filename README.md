@@ -7,11 +7,11 @@
     <tr>
       <td>
         <ul>
-          <li>💻 Always exploring new technologies and expanding my skill set.</li>
-          <li>🌟 AI/ML and Data Analytics enthusiast eager to build intelligent systems.</li>
-          <li>🤝 Open to collaborations and knowledge-sharing opportunities.</li>
+          <li>💻 Always exploring cutting-edge technologies and enhancing my skill set.</li>
+          <li>🌟 Passionate about AI/ML, Data Analytics, and building intelligent systems.</li>
+          <li>🤝 Excited to collaborate and share knowledge with like-minded individuals.</li>
           <li>📬 Reach me at <a href="mailto:deepanshusehgal1506@gmail.com">deepanshusehgal1506@gmail.com</a>.</li>
-          <li>🌱 I’m currently working as a Software Developer.</li>
+          <li>🌱 Currently thriving as a Software Developer, building impactful solutions.</li>
         </ul>
       </td>
       <td border='1'>
